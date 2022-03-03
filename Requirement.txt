@@ -3,8 +3,8 @@
 1.Dc geared motor(1000 RPM)
 2.LED's * 3
 3.Connecting Wire
-4.Straight 75 Teeth Spur Gear * 1
-5.35 Teeths Spur Gear * 1
+4.75 Teeth Spur Gear (Straight) * 1
+5.35 Teeths Spur Gear (Round) * 1
 
 # Hardware Components:
 1.Sunboard.
@@ -18,3 +18,5 @@
 7.Soldering Iron
 8.Instant Glue
 9.Plastic Tape
+
+//These are all the basic Requirements for this Project:)
