@@ -15,3 +15,6 @@
 // Tools Required:
 5.Pair of Scissors
 6.Hot Glue Gun
+7.Soldering Iron
+8.Instant Glue
+9.Plastic Tape
