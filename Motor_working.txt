@@ -1,0 +1,6 @@
+# An electric motor is electrical device which converts electrical energy
+into mechanical energy,  motors operate through the interaction between 
+the motor's magnetic field and electric current in a wire winding to 
+generate force in the form of motion of the motor's shaft.
+
+
