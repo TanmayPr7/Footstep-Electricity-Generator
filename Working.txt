@@ -1,0 +1,4 @@
+# Motive: The motive of this project is to generate electricity with help of 
+Dc Motor, in an eco-friendly way and to generate eco_friendly energy.
+
+# This is a basic physics project which uses, DC Motor, LED's, Springs, etc
