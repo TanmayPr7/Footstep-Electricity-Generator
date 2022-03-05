@@ -4,7 +4,7 @@ Dc Motor, in an eco-friendly way and to generate eco_friendly energy.
 # This is a basic physics project which uses, DC Motor, LED's, Springs, etc,
 It basically works, as electricity generator through footsteps of humans.
 When a human climp up this staircase fitted with this type of Tiles, the 
-floor moves downward as, springs holding the floor shrinks due humans weight
+tiles moves downward as, springs holding the tile, shrinks due humans weight
 which automatically makes the straight spur gear connected to circular spur gear
 which later connected to DC motor, moves down which makes the connected circular
 spur gear to rotate, which rotates the shaft of Dc Motor.
@@ -17,3 +17,5 @@ it produces electricity at its terminals.
 
 # In this way we can genarte electricity through "Footstep electricity generator"
 project using 12v DC Gear Motor.
+
+# This is the whole Working Principle of this Project.
