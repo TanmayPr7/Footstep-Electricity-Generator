@@ -3,4 +3,9 @@ into mechanical energy,  motors operate through the interaction between
 the motor's magnetic field and electric current in a wire winding to 
 generate force in the form of motion of the motor's shaft.
 
-
+# Use of motor in this project:
+As, we known motor converts electrical energy into mechanical energy when
+electricity passes through terminals of motor to motor through external 
+electrical supply, And it also acts vise-versa, when someone turns the shaft
+of motor through hand or any external source, it will produce electricity 
+at its terminal and that can be stored and used in many ways.
