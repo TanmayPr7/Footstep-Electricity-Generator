@@ -8,4 +8,8 @@ As, we known motor converts electrical energy into mechanical energy when
 electricity passes through terminals of motor to motor through external 
 electrical supply, And it also acts vise-versa, when someone turns the shaft
 of motor through hand or any external source, it will produce electricity 
-at its terminal and that can be stored and used in many ways.
+at its terminal and that can be stored and used in many ways. In this way 
+motor acts as generator to produce electricity.
+
+# In this project we are going to use 12v DC Geared Motor(1000 RPM) as 
+generator, to produce of electricity, store it and later use it.
