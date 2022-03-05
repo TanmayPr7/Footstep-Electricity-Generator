@@ -8,3 +8,12 @@ floor moves downward as, springs holding the floor shrinks due humans weight
 which automatically makes the straight spur gear connected to circular spur gear
 which later connected to DC motor, moves down which makes the connected circular
 spur gear to rotate, which rotates the shaft of Dc Motor.
+
+# As, we know when the shaft of any Dc Motor turns or rotates dues to any external 
+supply of force applied on it, prodeuces electricity at its terminals. In this case 
+Straight spur gear rotates the circular spur gear, which is connected to the motor
+shaft and makes the motor shaft rotate and then according to Dc motor's principle
+it produces electricity at its terminals.
+
+# In this way we can genarte electricity through "Footstep electricity generator"
+project using 12v DC Gear Motor.
